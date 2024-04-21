@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingCryptic
-- 👀 I’m interested in doftware development and web design
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software development and web design
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on numerous apps
 - 📫 How to reach me anthonystephens727@gmail.com
 
